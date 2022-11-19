@@ -1,0 +1,48 @@
+h1 {
+    color: aqua;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    color: red;
+}
+
+strong {
+    color: black;
+}
+#titulo {
+    color: blueviolet;
+    text-align: center;
+}
+p#descrição {
+    color: bisque;
+}
+.promocao {
+    background-color: beige;
+    text-align: right;
+}
+h1.promocao {
+    color: yellow;
+}
+
+.nova {
+    color: blue;
+}
+p.final-pagina#rodape {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.curso, .novo-curso {
+    background-color: aliceblue;
+}
+.novo-curso {
+    background-color: aliceblue;
+    color: red;
+}
+.curso, .novo-curso, #contatos {
+    padding: 12px;
+    border: 2px solid red;
+}
